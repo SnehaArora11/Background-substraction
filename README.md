@@ -65,8 +65,8 @@ README.md                       # Project README file
 
 Example output showing background subtraction results using GMM and averaging:
 
-[![Background Subtraction Results](path/to/thumbnail_image.png)](path/to/video.mp4)
-
+[![Background Subtraction Results- frame averaging]]()
+[![Background Subtraction Results- GMM]](path/to/video.mp4)
 
 ## References
 
